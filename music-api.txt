@@ -1,12 +1,12 @@
 Music Data Analytics & Market Intelligence
 
-    Soundcharts
+    Soundcharts:
     It provides a 360-degree real-time view of artist
     performance by tracking global charts, radio
     airplay, and social media milestones across dozens 
     of platforms in a single dashboard.
 
-    Chartmetric
+    Chartmetric:
     This platform combines cross-platform data from
     streaming and social media with proprietary metrics 
     like "Career Stage" and "Recent Momentum" to help
@@ -99,43 +99,43 @@ Specialized & AI Music APIs (New for 2025)
     that is the "gold standard" for accurate, non-commercial
     music metadata
 
-    Discogs
+    Discogs:
     It offers access to a massive, user-generated catalog
     of global music metadata, specializing in detailed
     information for vinyl, CDs, and rare releases including
     master versions and artist discographies.
 
-    Last.fm
+    Last.fm:
     Known for its "scrobbling" feature, this API tracks user
     listening habits across various streaming services to
     generate detailed personal listening profiles, artist
     recommendations, and global charts.
 
-    Wikipedia
+    Wikipedia:
     It provides structured access to millions of crowdsourced
     articles, allowing developers to programmatically extract
     artist biographies, curated discography tables, and
     historical music timelines.
 
-    Wikidata
+    Wikidata:
     As the data backbone for Wikipedia, it offers
     machine-readable, linked data for music entities (artists,
     albums, tracks) that is natively structured and easier
     to query for complex relationships than raw Wikipedia text.
 
-    DBpedia
+    DBpedia:
     This project algorithmically converts Wikipedia’s
     "Infobox" data into a standardized RDF format, making it
     highly effective for semantic searches and connecting music
     data across the broader web.
 
-    Wikipedia Enterprise API
+    Wikipedia Enterprise API:
     A high-volume, paid service designed for 2025 AI and
     enterprise applications that provides real-time updates,
     parsed HTML tables, and credibility signals for
     large-scale data ingestion. 
 
-    Genius
+    Genius:
     Provides access to a massive database of song lyrics
     along with crowdsourced and artist-verified annotations
     that explain the meaning and cultural context behind
