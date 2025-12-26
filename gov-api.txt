@@ -1,0 +1,34 @@
+GovInfo API
+----------------------------------
+- CHRG (Congressional Hearings)
+- Economic Report of the President (ERP)
+- U.S. Government Manual
+- Federal Register - Grant Programs (ex. tech hubs)
+
+
+Congress.gov API
+----------------------------------
+- /committee
+- /hearing
+
+
+House Committee Repository
+----------------------------------
+- docs.house.gov
+
+
+Example Congressional Hearings
+----------------------------------
+- House and Senate Judiciary Committees: Antitrust
+- Joint Economic Committee: Chain Modernization and Workforce Development
+
+
+Notes
+----------------------------------
+- Statutes at Large (2025 USLM XML): ex "industrial zones" or "opportunity zones" 
+
+- Keyword searches: human capital, reshoring, market concentration, or workforce shortage
+
+- Witness statements from trade associations (e.g., National Association of Manufacturers) and regional economic development leaders.
+
+- Pull only witness statements, not entire hearing
