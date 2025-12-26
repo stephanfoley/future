@@ -20,15 +20,17 @@ House Committee Repository
 Example Congressional Hearings
 ----------------------------------
 - House and Senate Judiciary Committees: Antitrust
-- Joint Economic Committee: Chain Modernization and Workforce Development
+- Joint Economic Committee: Chain Modernization and
+  Workforce Development
 
 
 Notes
 ----------------------------------
-- Statutes at Large (2025 USLM XML): ex "industrial zones" or "opportunity zones" 
-
-- Keyword searches: human capital, reshoring, market concentration, or workforce shortage
-
-- Witness statements from trade associations (e.g., National Association of Manufacturers) and regional economic development leaders.
-
+- Statutes at Large (2025 USLM XML): ex "industrial zones"
+  or "opportunity zones" 
+- Keyword searches: human capital, reshoring, market
+  concentration, or workforce shortage
+- Witness statements from trade associations (ex: National
+  Association of Manufacturers) and regional economic
+  development leaders.
 - Pull only witness statements, not entire hearing
