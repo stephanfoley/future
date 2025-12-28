@@ -1,0 +1,45 @@
+Commodities Supercycle 2003-2013
+--------------------------------
+
+China's fixed‑asset investment: construction, infrastructure, heavy industry
+- urbanization and infrastructure build‑out
+- extraordinary demand: steel, copper, aluminum, coal, and oil
+
+ “building entire cities and moving hundreds of millions of people” 
+
+Inputs
+- construction, machinery, transportation equipment, and power generation
+
+Outputs
+- manufactured exports rely more heavily on labor and intermediate inputs 
+
+China's export-led economy
+ - textiles, apparel, footwear, toys, furniture, simple household goods 
+ - assembly of imported components (1/3 total exports)
+
+Tech assembly supply chain:
+- Japan – high‑precision components, semiconductors, machinery parts
+- South Korea – memory chips, displays, electronics modules
+- Taiwan – semiconductors, circuit boards, computer components
+- Singapore & Malaysia – electronics parts, hard‑drive components
+- Thailand & Philippines – electronics assemblies, wiring, subcomponents
+
+from US: 
+- semiconductor equipment
+- specialized chips
+- aerospace components
+- industrial machinery parts
+
+from Europe:
+- precision machinery
+- automotive parts
+- industrial equipment
+- specialty chemicals
+
+Urbanization data source
+ - World Bank
+   - Urban China: Toward Efficient, Inclusive, and Sustainable Urbanization
+
+Industrial production data source
+- United Nations Industrial Development Organization
+  - Manufacturing Production and Trade
