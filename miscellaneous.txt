@@ -1,0 +1,15 @@
+Security Exchange Commission
+- edgartools
+- sec-edgar-api
+
+Bank for International Settlements
+- https://data.bis.org/
+
+United Nations Industrial Development Organization
+- https://stat.unido.org/
+
+Board of Governors of the Federal Reserve
+- https://www.federalreserve.gov/data.htm
+
+World Bank
+- https://data.worldbank.org/
