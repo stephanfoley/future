@@ -43,3 +43,15 @@ Urbanization data source
 Industrial production data source
 - United Nations Industrial Development Organization
   - Manufacturing Production and Trade
+
+Plotting demand side of supercycle
+- China's Fixed Asset Investment (FAI) Growth
+- China's Industrial Production Index
+- Global (or G7 & Emerging Markets) GDP Growth Rate
+- CRB Raw Industrials Sub-index (or similar)
+- World Steel Production (with China highlighted)
+
+Data sources for demand side
+- World Bank, IMF, OECD, FRED, National Bureau of Statistics of 
+  China, World Steel Association
+
