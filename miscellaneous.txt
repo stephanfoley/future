@@ -11,6 +11,9 @@ United Nations Industrial Development Organization
 UN Comtrade Database
 - https://comtradeplus.un.org/
 
+OECD Composite Leading Indicators (CLI)
+- https://www.oecd.org/en/data/indicators/composite-leading-indicator-cli.html
+
 US DOT
 - https://www.bts.gov/newsroom/commodity-flow-survey-2022-data-released
 
