@@ -11,6 +11,9 @@ United Nations Industrial Development Organization
 UN Comtrade Database
 - https://comtradeplus.un.org/
 
+US DOT
+- https://www.bts.gov/newsroom/commodity-flow-survey-2022-data-released
+
 Board of Governors of the Federal Reserve
 - https://www.federalreserve.gov/data.htm
 
