@@ -22,3 +22,6 @@ Board of Governors of the Federal Reserve
 
 World Bank
 - https://data.worldbank.org/
+
+Pandas Data Reader
+- https://app.readthedocs.org/projects/pandas-datareader/downloads/pdf/latest/
